@@ -1,0 +1,15 @@
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\bin\Debug\net8.0\Infrustructure.deps.json
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\bin\Debug\net8.0\Infrustructure.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\bin\Debug\net8.0\Infrustructure.pdb
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfo.cs
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\refint\Infrustructure.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\Infrustructure.pdb
+C:\Users\Yusuf\Desktop\C# Course\week2\day3\ClassTask\CrudDemo\Infrustructure\obj\Debug\net8.0\ref\Infrustructure.dll
